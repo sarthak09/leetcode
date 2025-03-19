@@ -1,0 +1,7 @@
+https://leetcode.com/problems/find-peak-element/description/
+https://leetcode.com/problems/find-in-mountain-array/description/
+https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/
+https://leetcode.com/problems/find-target-indices-after-sorting-array/solutions/3849373/no-searching-no-sorting-beats-100/
+https://leetcode.com/problems/plates-between-candles/description/
+https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/submissions/?envType=daily-question&envId=2025-03-19
+https://leetcode.com/problems/partition-array-according-to-given-pivot/submissions/
