@@ -5,3 +5,8 @@ https://leetcode.com/problems/find-target-indices-after-sorting-array/solutions/
 https://leetcode.com/problems/plates-between-candles/description/
 https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/submissions/?envType=daily-question&envId=2025-03-19
 https://leetcode.com/problems/partition-array-according-to-given-pivot/submissions/
+
+https://leetcode.com/problems/running-sum-of-1d-array/
+https://leetcode.com/problems/sum-of-beauty-in-the-array/description/
+https://leetcode.com/problems/sum-of-two-integers/submissions/852583486/
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
